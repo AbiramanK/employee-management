@@ -10,6 +10,8 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-devkit/core": "^12.2.7",
+    "@angular-devkit/schematics": "^12.2.7",
     "@angular/animations": "~12.2.0",
     "@angular/common": "~12.2.0",
     "@angular/compiler": "~12.2.0",
@@ -18,6 +20,11 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "@schematics/angular": "^9.1.0",
+    "@syncfusion/ej2-angular-buttons": "^19.2.60",
+    "@syncfusion/ej2-angular-dropdowns": "^19.2.62",
+    "@syncfusion/ej2-angular-treegrid": "^19.2.60",
+    "@syncfusion/ej2-material-theme": "~19.2.59",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
@@ -26,6 +33,7 @@
     "@angular-devkit/build-angular": "~12.2.6",
     "@angular/cli": "~12.2.6",
     "@angular/compiler-cli": "~12.2.0",
+    "@nativescript/schematics": "^11.2.0",
     "@types/jasmine": "~3.8.0",
     "@types/node": "^12.11.1",
     "jasmine-core": "~3.8.0",
